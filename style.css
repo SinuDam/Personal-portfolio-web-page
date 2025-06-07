@@ -1,0 +1,99 @@
+body {
+  background-color: #fffd90;
+  font-family: Comic Sans MS, cursive, sans-serif;
+  color: #000000;
+  padding: 20px;
+}
+
+body {
+  background-image: url('sinu_background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
+h1 {
+  color: #0b045d;
+  text-align: center;
+}
+
+h2 {
+  color: #000000;
+}
+
+ul {
+  background: #86f797;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.project {
+  background-color: #e6ffe6;
+  padding: 10px;
+  margin-top: 10px;
+  border: 2px dashed #00cc99;
+  border-radius: 10px;
+}
+
+.my-photo {
+  width: 250px;
+  border-radius: 10%;
+  border: 4px dashed #ff69b4;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.my-pic {
+  width: 250px;
+  border-radius: 10%;
+  border: 4px dashed #6971ff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 20px;
+  margin-left: 100px;
+}
+
+.certificate {
+  width: 250px;
+  border-radius: 10%;
+  border: 4px dashed #ff69b4;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 20px;
+}
+
+.certificate1 {
+  width: 250px;
+  border-radius: 10%;
+  border: 4px dashed #6971ff;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 05px;
+  margin-right: 50px;
+}
+
+.certificate2 {
+  width: 250px;
+  border-radius: 10%;
+  border: 4px dashed #69ff85;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 05px;
+  margin-right: 50px;
+}
+
+.canva {
+  width: 250px;
+  border-radius: 10%;
+  border: 4px dashed #f10303;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 05px;
+  margin-right: 50px;
+}
+
+.my-picture {
+  width: 250px;
+  border-radius: 10%;
+  border: 4px dashed #d67507;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  margin-top: 05px;
+  margin-left: 100px;
+}
